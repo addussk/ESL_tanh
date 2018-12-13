@@ -1,0 +1,6 @@
+import numpy
+
+x= 1.33
+print(numpy.cosh(x))
+print(numpy.sinh(x))
+print(numpy.tanh(x))
