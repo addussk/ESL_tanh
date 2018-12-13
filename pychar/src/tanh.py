@@ -1,3 +1,8 @@
+#made by Marcin Sikora, Adrian Kruczak 
+#13.12.2018, AGH 
+#Elektronika, ESL
+
+
 from myhdl import block, always_seq, Signal, intbv, enum, instances, always_comb, always
 import src.fixed_def
 
